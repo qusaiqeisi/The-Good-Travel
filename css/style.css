@@ -1,0 +1,71 @@
+body{
+    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d25/main/assets/img/background.png");
+
+     font-family: 'Righteous', cursive;;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+header{
+    background-color:  rgba(202, 240, 251, 255);
+    padding: 0.1%;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+    margin-top: -130px;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+#format{
+    background-color:  #5d4b7696;
+    padding: 20px;
+    color:white ;
+    width: 20%;
+    margin-top: 50px;
+}
+
+#name{
+    width: 50%;
+    height: 25px;
+    
+}
+
+#place{
+    width: 50%;
+    height: 25px;
+
+}
+
+#transport{
+    width: 50%;
+    height: 25px;
+
+}
+
+#submit{
+    width: 30%;
+    height: 30px;
+}
+
+#tablet{
+    margin-left: 50%;
+    background-color: #5d4b7696;
+    padding: 20px;
+   color: white;
+   margin-top: -300px;
+}
+
+
+footer{
+    background-color: #f376a288;
+    text-align: center;
+    margin-top: 380px;
+    color: white;
+}
